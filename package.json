@@ -1,0 +1,19 @@
+{
+  "name": "realtimemarkdown",
+  "version": "1.0.0",
+  "description": "Realtime Markdown Viewer",
+  "main": "server.js",
+  "keywords": [
+    "markdown",
+    "realtime"
+  ],
+  "author": "Siddhant",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "module_name": "^1.0.0",
+    "redis": "^2.7.1",
+    "share": "^0.6.3"
+  }
+}
